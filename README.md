@@ -121,3 +121,7 @@ Additionally, debugging the hardware taught me the importance of understanding c
 These features will be explored in future Arduino projects.
 
 ---
+
+
+https://github.com/user-attachments/assets/4b3a33e1-cd36-4f23-ae3c-40aa076cce9c
+
