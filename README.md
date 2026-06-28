@@ -121,6 +121,8 @@ Additionally, debugging the hardware taught me the importance of understanding c
 These features will be explored in future Arduino projects.
 
 ---
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-28 at 21 31 19" src="https://github.com/user-attachments/assets/b2f2a614-9477-406e-9c75-5a38ae78d504" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-06-28 at 15 05 42" src="https://github.com/user-attachments/assets/097a8be5-1e6b-4c7e-97f5-453fe34ad27f" />
 
 
 https://github.com/user-attachments/assets/4b3a33e1-cd36-4f23-ae3c-40aa076cce9c
